@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermalPrinterMTP3", "ThermalPrinterMTP3\ThermalPrinterMTP3.csproj", "{2818F81D-EFF7-4823-BF61-77D61EDFE812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2818F81D-EFF7-4823-BF61-77D61EDFE812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2818F81D-EFF7-4823-BF61-77D61EDFE812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2818F81D-EFF7-4823-BF61-77D61EDFE812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2818F81D-EFF7-4823-BF61-77D61EDFE812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399E2C01-279D-41F7-AD40-164E454D36F6}
+	EndGlobalSection
+EndGlobal
