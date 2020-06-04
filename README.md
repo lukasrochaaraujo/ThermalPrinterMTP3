@@ -1,2 +1,9 @@
 # ThermalPrinterMTP3
-Simple dll for print
+
+THERMAL RECEIPT PRINTER
+
+Model: MTP-3
+
+Print Width: 80mm
+
+Print Speed: 90mm/s
